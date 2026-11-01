@@ -1,0 +1,4 @@
+customtkinter>=5.2
+requests>=2.31
+anthropic>=0.40
+openpyxl>=3.1

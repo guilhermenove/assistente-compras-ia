@@ -1,0 +1,86 @@
+[
+  {
+    "sku": "MONO-035",
+    "cat": "MONOFÁSICA"
+  },
+  {
+    "sku": "MONO-048",
+    "cat": "MONOFÁSICA"
+  },
+  {
+    "sku": "MONO-066",
+    "cat": "MONOFÁSICA"
+  },
+  {
+    "sku": "MONO-076",
+    "cat": "MONOFÁSICA"
+  },
+  {
+    "sku": "MONO-096",
+    "cat": "MONOFÁSICA"
+  },
+  {
+    "sku": "MONO-120",
+    "cat": "MONOFÁSICA"
+  },
+  {
+    "sku": "MONO-150",
+    "cat": "MONOFÁSICA"
+  },
+  {
+    "sku": "MONO-180",
+    "cat": "MONOFÁSICA"
+  },
+  {
+    "sku": "TRI-125",
+    "cat": "TRIFÁSICA"
+  },
+  {
+    "sku": "TRI-160",
+    "cat": "TRIFÁSICA"
+  },
+  {
+    "sku": "TRI-200",
+    "cat": "TRIFÁSICA"
+  },
+  {
+    "sku": "TRI-250",
+    "cat": "TRIFÁSICA"
+  },
+  {
+    "sku": "TRI-300",
+    "cat": "TRIFÁSICA"
+  },
+  {
+    "sku": "CAR-32X50",
+    "cat": "CARRETEL"
+  },
+  {
+    "sku": "CAR-38X50",
+    "cat": "CARRETEL"
+  },
+  {
+    "sku": "CAR-45X50",
+    "cat": "CARRETEL"
+  },
+  {
+    "sku": "CAR-50X50",
+    "cat": "CARRETEL"
+  },
+  {
+    "sku": "UI-120",
+    "cat": "UI"
+  },
+  {
+    "sku": "UI-150",
+    "cat": "UI"
+  },
+  {
+    "sku": "BOR-04",
+    "cat": "BORNE"
+  },
+  {
+    "sku": "BOR-25",
+    "cat": "BORNE"
+  }
+]
